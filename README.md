@@ -40,12 +40,12 @@ A console-based C++ social networking application that simulates core features o
 
 ## Project Structure
 
-mainfile.cpp # Contains complete logic of the application
-user.txt # Stores user data (name, ID, friends, liked pages)
-page.txt # Stores page data (name, ID, liked by users)
-post.txt # Stores all posts with meta info
-comment.txt # Stores comments with timestamps and authorship
-memories.txt # Stores shared memories
+mainfile.cpp # Contains complete logic of the application.
+user.txt # Stores user data (name, ID, friends, liked pages).
+page.txt # Stores page data (name, ID, liked by users).
+post.txt # Stores all posts with meta info.
+comment.txt # Stores comments with timestamps and authorship.
+memories.txt # Stores shared memories.
 
 ## How to Run
 

@@ -1,0 +1,77 @@
+50001|13,4,2025|90013|Amazing truck art! I can't wait to see more of Pakistan's vibrant culture.|50002|This is absolutely beautiful, I love the colors!|  
+50002|13,4,2025|10014|Hoping to see more opportunities for students in Pakistan.|  
+50003|13,4,2025|90014|What a great initiative! Hoping to see more opportunities for students in Pakistan.|  
+50004|13,4,2025|90015|This looks really inspiring! Scholarships should be more accessible.|  
+50005|13,4,2025|90016|I love how the women’s cricket team is getting more attention! Can’t wait to see them play.|  
+50006|13,4,2025|90017|Exciting! I hope they expand to more cities soon.|  
+50007|13,4,2025|90018|Can't wait to see what’s in store for our future leaders. Thanks for organizing this!|  
+50008|13,4,2025|90019|Great news about the metrobus service expansion! Keep it up, Islamabad.|  
+50009|13,4,2025|90011|More transport options in Islamabad are always welcome!|  
+50010|13,4,2025|90012|Such an interesting take on the event, thank you for sharing!|  
+50011|13,4,2025|90023|Biryani is a must-try for every foodie! I’m definitely going to check out Ghousia next.|  
+50012|13,4,2025|90024|I agree, Ghousia is one of the best spots in Karachi!|  
+50013|13,4,2025|90025|What an informative post! Pakistan's heritage needs to be preserved and showcased more.|  
+50014|13,4,2025|90026|Mohenjo Daro is truly awe-inspiring. I need to visit soon!|  
+50015|13,4,2025|90027|Such an interesting post on our ancient civilizations!|  
+50016|13,4,2025|90028|I need to plan a trip to Mohenjo Daro soon. Thanks for the info!|  
+50017|13,4,2025|90029|This is the kind of initiative we need! Giving opportunities to underprivileged students is so important.|  
+50018|13,4,2025|90030|This is what the country needs! It’s amazing to see the rise of digital education.|  
+50019|13,4,2025|10013|Keep it up! These types of scholarships make such a difference for those in need.|  
+50020|13,4,2025|10012|Great initiative for rural communities, providing them with educational resources is a must.|  
+50021|13,4,2025|10013|It’s inspiring to see local startups get the attention they deserve. More power to them!|  
+50022|13,4,2025|10014|Excited for the new startups! Can't wait to check out their products.|  
+50023|13,4,2025|10015|So cool! I think Pakistan has so many hidden gems that deserve the spotlight.|  
+50024|13,4,2025|10016|I love supporting startups! More exposure like this will surely help them succeed.|  
+50025|13,4,2025|10017|Such an amazing way to give back to the community. Well done!|  
+50026|13,4,2025|10018|Every effort counts, and I love the positivity here! Let’s all chip in.|  
+50027|13,4,2025|10019|You’re right, everyone should be part of giving back to the community.|  
+50028|13,4,2025|10020|We need more events like this for youth involvement!|  
+50029|13,4,2025|10021|So glad to see such important social causes being highlighted!|  
+50030|13,4,2025|10022|Totally agree, these kinds of drives are important for fostering a better community.|  
+50031|13,4,2025|10013|I love how Pakistan’s history is being shared with the world! I hope to visit soon.|  
+50032|13,4,2025|10023|Pakistan's culture is so rich, it’s great to see these events happening.|  
+50033|13,4,2025|10024|Visiting the northern areas of Pakistan should be on everyone’s bucket list!|  
+50034|13,4,2025|10025|So true! The natural beauty of northern Pakistan is unmatched. More people need to explore it.|  
+50035|13,4,2025|10026|Such an inspirational post! More people need to get into tech freelancing, especially students.|  
+50036|13,4,2025|10027|It’s really cool how freelancing can help students make money while studying.|  
+50037|13,4,2025|10028|Loved the tips! I’ll be looking for new freelance opportunities now.|  
+50038|13,4,2025|10029|These tips are exactly what I needed as a student! Thank you!|  
+50039|13,4,2025|10030|I love the opportunities for career growth here! I’ll be checking out this bootcamp.|  
+50040|13,4,2025|10013|The idea of a startup bootcamp sounds amazing! I hope to see more such initiatives.|  
+50041|13,4,2025|10031|What a refreshing take on leadership and volunteer work. So motivating.|  
+50042|13,4,2025|10032|Such an important cause! I hope many people join the volunteer efforts.|  
+50043|13,4,2025|10033|I will definitely join this event – it’s for such a good cause!|  
+50044|13,4,2025|10034|More people should get involved in cleanliness drives like this. Great initiative!|  
+50045|13,4,2025|10035|This is the kind of change we need in the community! Proud of you guys.|  
+50046|13,4,2025|10036|It's inspiring to see people coming together to clean up. The community spirit is strong.|  
+50047|13,4,2025|10037|I love how these events bring everyone together. Let’s keep it going!|  
+50048|13,4,2025|10038|These behind-the-scenes moments make us appreciate the work that goes into creating these shows.|  
+50049|13,4,2025|10039|Totally agree! It’s amazing to see how much effort goes into our local entertainment industry.|  
+50050|13,4,2025|10040|The way they bring stories to life is fascinating!|  
+50051|13,4,2025|10041|I’m so glad to see more creative opportunities for our youth. This is fantastic.|  
+50052|13,4,2025|10042|So inspiring to see the passion and energy behind this initiative!|  
+50053|13,4,2025|10043|The entrepreneurial spirit in Pakistan is truly thriving. I’m excited for the future.|  
+50054|13,4,2025|10044|I can’t wait to see what else is coming out from these amazing startups!|  
+50055|13,4,2025|10044|Wonderful post! It’s so important to stay positive during exam season.|  
+50056|13,4,2025|10045|This is so true! A little optimism and a lot of chai can make everything better.|  
+50057|13,4,2025|10046|A little humor during stressful times really helps. Thanks for the reminder!|  
+50058|13,4,2025|10047|Feeling the exam pressure too, but knowing I’m not alone helps! Thanks for sharing.|  
+50059|13,4,2025|10048|Amazing post! You always find ways to bring out the positive side of things.|  
+50060|13,4,2025|10014|It’s always inspiring to read your reflections. Keep them coming!|  
+50061|13,4,2025|10049|Love how you’re always spreading positivity! This post is so relatable.|  
+50062|13,4,2025|10050|I can totally relate! Weekends feel way too short for everything I need to do.|  
+50063|13,4,2025|10012|This made me smile! Sometimes we need to embrace the struggles and find the humor.|  
+50064|13,4,2025|10013|Couldn’t agree more! Finding balance is key, and this post nails it.|  
+50065|13,4,2025|10016|Just love the vibes! Thank you for reminding us that balance is possible.|  
+50066|13,4,2025|10017|I wish we had more posts like this! Thanks for making my day a little brighter.|  
+50067|14,5,2025|10013|Welcome|
+50068|14,5,2025|10015|Beautiful!!|
+50069|14,5,2025|10016|yayyy!!!|
+50070|14,5,2025|10017|Hope you enjoy|
+50071|14,5,2025|10013|Hope you enjoy|
+50072|14,5,2025|10013|Test comment|
+50073|14,5,2025|10015|Hope you enjoy!|
+50074|14,5,2025|10015|Hope you Enjoy There|
+50075|14,5,2025|10015|Test comment|
+50076|14,5,2025|10015|Congrats|
+50077|14,5,2025|10014|Congrats|

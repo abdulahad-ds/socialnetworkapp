@@ -1,0 +1,20 @@
+Shan Foods ||90011||10016,10013,10018||
+Jazz Telecom ||90012||10013,10012,10018||
+Lahore Grammar School ||90013||10011,10013,10018||
+PakWheels ||90014||10011,10013,10018,10017||
+Khaadi ||90015||10011,10013,10018||
+Pakistan Cricket Board ||90016||10011,10013,10018||
+Chughtai Lab ||90017||10013,10018||
+Sapphire Textiles ||90018||10011,10013,10018||
+LUMS ||90019||10011,10013,10018||
+Gourmet Bakery ||90020||10012,10013,10014||
+Biryani Lovers PK ||90021||10011,10018,10019||
+Karachi Kings ||90022||10013,10014,10018||
+Pak Sar Zameen ||90023||10012,10013,10016||
+Chai Wala PK ||90024||10011,10013,10017||
+Desi Street Food ||90025||10013,10014,10018||
+Peshawari Chappal ||90026||10011,10014,10018||
+Pak Travel Diaries ||90027||10012,10013,10018||
+Khyber Shinwari ||90028||10014,10015,10018||
+Pak Tech Geeks ||90029||10011,10013,10018||
+Lahore Food Street ||90030||10013,10018,10019||

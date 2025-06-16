@@ -1,0 +1,60 @@
+post1|20001|13,5,2025|90011|2|culture|Pakistan's truck art is a moving masterpiece. Explore our latest post!|10031,10032,10033,10016|50001,50002,50075|
+post2|20002|14,5,2025|10031|0| |Just Completed OOP Project!!!!|10032,10034,10036,10015| 50076|
+post3|20003|12,5,2025|90015|3|education|New scholarships for underprivileged students – apply by June 1st.|10033,10035,10037|50003|
+post4|20004|15,5,2025|10033|0| |Hey I am new on this app!|10034,10036,10038|50004|
+post5|20005|12,5,2025|90022|1|sports|Women’s cricket camp begins next week in Karachi. Register today!|10035,10037,10039|50005,50006|
+post6|20006|13,5,2025|10035|0| |Hey I am new on this app!|10036,10038,10024|50007|
+post7|20007|14,5,2025|90026|2|news|Metrobus service extended to new sectors of Islamabad.|10037,10039,10011|50008|
+post8|20008|13,5,2025|10037|0| |Just started vaping.|10038,10024,10012|50009|
+post9|20009|15,5,2025|90014|3|business|Local startups pitch ideas at Innovation Pakistan Expo – see the highlights.|10039,10011,10013|50010|
+post10|20010|12,5,2025|10039|2|foodie|Tried biryani from Ghousia – worth every rupee! |10024,10012,10014|50011|
+post11|20011|13,5,2025|10012|2|heritage|Explore Mohenjo Daro – a civilization older than the pyramids.|10011,10013,10015|50012,50013|
+post12|20012|14,5,2025|10011|0| |Hey I am new on this app!|10012,10014,10016,10013,10017,10015|50014,50067,50070|
+post13|20013|12,5,2025|90013|2|entertainment|Watch Pakistani short films that made it to international festivals.|10013,10015,10017,10034|50015|
+post14|20014|13,5,2025|10012|0| |Hey I am new on this app!|10014,10016,10018|50016|
+post15|20015|15,5,2025|90019|3|jobs|Internships available for media and IT students – apply by May 20.|10015,10017,10019,10016|50017|
+post16|20016|13,5,2025|10015|1|random|Someone just brought chai in the lecture hall. Hero.|10016,10018,10020|50018,50069,50077|
+post17|20017|12,5,2025|90020|1|events|Karachi Tech Meetup on May 25 – register now!|10017,10019,10021|50019|
+post18|20018|14,5,2025|10017|0| |Hey I am new on this app!|10018,10020,10022,10014|50020|
+post19|20019|13,5,2025|10014|2|fashion|Check out our Eid Collection preview now live on our page.|10019,10021,10023,10043|50021|
+post20|20020|15,5,2025|10019|1|review|Finally visited Lok Virsa – so vibrant and beautiful.|10020,10022,10024|50022|
+post21|20021|12,5,2025|90016|1|science|Solar panel use in rural Sindh has increased 40% this year!|10021,10023,10025|50023|
+post22|20022|14,5,2025|10021|0| |Hey I am new on this app!|10022,10024,10026|50024|
+post23|20023|13,5,2025|90017|2|health|Free medical camps across Punjab – check our schedule.|10023,10025,10027|50025|
+post24|20024|12,5,2025|10023|1|weather|Lahore’s sky this evening was surreal – pink and orange hues.|10024,10026,10028|50026|
+post25|20025|13,5,2025|90018|1|volunteer|Join our team for Ramadan ration drive. Register today!|10025,10027,10029|50027|
+post26|20026|15,5,2025|10025|0| |Hey I am new on this app!|10026,10028,10030|50028|
+post27|20027|14,5,2025|90023|2|education|Free computer literacy classes for girls – enroll online.|10027,10029,10031|50029|
+post28|20028|12,5,2025|10027|2|personal|Exam stress kicking in, but chai and duas help |10028,10030,10032|50030|
+post29|20029|13,5,2025|90025|3|sports|Football league trials in Karachi next week. Open for all!|10029,10031,10033|50031,50032|
+post30|20030|14,5,2025|10029|0| |Hey I am new on this app!|10030,10032,10034|50033|
+post31|20031|12,5,2025|90026|2|news|Federal budget 2025 to focus on education and digital economy.|10031,10033,10035|50034|
+post32|20032|15,5,2025|10031|0| |Hey I am new on this app!|10032,10034,10036|50035|
+post33|20033|13,5,2025|90027|2|career|How to start freelancing as a student – check our new blog!|10033,10035,10037|50036|
+post34|20034|14,5,2025|10033|0| |Hey I am new on this app!|10034,10036,10038|50037|
+post35|20035|12,5,2025|90028|1|tech|Learn web development from scratch – free sessions weekly.|10035,10037,10039|50038|
+post36|20036|15,5,2025|10035|0| |Hey I am new on this app!|10036,10038,10040|50039|
+post37|20037|13,5,2025|90029|2|tourism|Top 10 hidden travel spots in Northern Pakistan – new post up!|10037,10039,10041|50040|
+post38|20038|14,5,2025|10037|1|view|Nathia Gali was magical. Hike + views = perfect weekend.|10038,10040,10042|50041|
+post39|20039|12,5,2025|90030|1|tech|Cybersecurity 101: How to protect your data online.|10039,10041,10043|50042|
+post40|20040|15,5,2025|10039|0| |Hey I am new on this app!|10040,10042,10044|50043|
+post41|20041|13,5,2025|90024|2|social|Plant-a-Tree drive in Islamabad this weekend. Join us!|10041,10043,10045|50044|
+post42|20042|14,5,2025|10041|0| |Hey I am new on this app!|10042,10044,10046|50045|
+post43|20043|12,5,2025|90011|1|culture|Kalash festival highlights – celebrating heritage and colors!|10043,10045,10047,10015|50046,50068|
+post44|20044|15,5,2025|10043|2|campus|They said group project. I did solo mission. RIP team effort |10044,10046,10048|50047|
+post45|20045|13,5,2025|90013|2|entertainment|Behind the scenes: filming location of new Pakistani drama series.|10045,10047,10049,10016|50048|
+post46|20046|14,5,2025|10044|3|reflection|Thinking about how far we’ve come since first year. Grateful journey.|10046,10048,10050|50049|
+post47|20047|12,5,2025|90027|2|career|Explore freelancing tips and gigs for students on our page!|10047,10049,10051|50050|
+post48|20048|13,5,2025|10046|1|foodie|Tried Rabri Doodh from Burns Road – 10/10!|10048,10050,10046| |
+post49|20049|14,5,2025|90023|1|education|Admissions open for short courses in Data Science and AI – enroll now.|10049,10051,10047|50052|
+post50|20050|15,5,2025|10048|0| |Hey I am new on this app!|10050,10046,10042|50053|
+post51|20051|13,5,2025|90014|3|business|Join our startup bootcamp – mentorship and funding opportunities await.|10051,10047,10041,10017|50054|
+post52|20052|14,5,2025|10050|1|inspired|Watched Malala’s UN speech again. Still gives goosebumps.|10046,10042,10040|50055|
+post53|20053|12,5,2025|90025|2|sports|Karachi Kings training session open to fans this Saturday!|10047,10041,10039|50056|
+post54|20054|15,5,2025|10046|0| |Hey I am new on this app!|10042,10040,10039|50057|
+post55|20055|13,5,2025|90024|2|social|Join our cleanliness drive near Sea View this Sunday morning.|10041,10039,10037|50058|
+post56|20056|14,5,2025|10042|3|family|Spent the day helping Ammi in the kitchen – wholesome vibes.|10040,10039,10050|50059|
+post57|20057|12,5,2025|90019|1|jobs|We’re hiring! Graphic designers needed for remote projects.|10039,10037,10051|50060|
+post58|20058|15,5,2025|10040|1|thoughts|Why do weekends feel shorter than weekdays? Unfair.|10039,10050,10046|50061|
+post59|20059|13,5,2025|90020|2|events|Youth Leadership Conference – register before 30th May.|10037,10051,10047|50062|
+post60|20060|14,5,2025|10039|2|study|Group project deadlines approaching… May the odds be in our favor.|10050,10046,10042,10052|50063|
